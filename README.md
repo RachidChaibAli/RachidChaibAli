@@ -1,5 +1,10 @@
 # 💫 About Me:
-Soy estudiante de último año del Grado en Ingeniería Informática en la Universidad de Granada.<br>Con formación en desarrollo de aplicaciones web y backend, así como en inteligencia artificial y machine learning. <br>Tengo experiencia práctica en el desarrollo de proyectos con tecnologías como Python (scikit-learn, PyTorch), Java (Springboot, Hibernate), PHP, SQL y C++. <br>Busco oportunidades para aplicar y ampliar mis conocimientos en entornos profesionales.
+Final-year Computer Engineering student at the University of Granada.
+Trained in web and backend application development, as well as artificial intelligence and machine learning.
+Practical experience developing projects with technologies like Python (scikit-learn, PyTorch), Java (Spring Boot, Hibernate), PHP, SQL, and C++.
+Seeking opportunities to apply and expand my knowledge in professional environments.
+
+Soy estudiante de último año del Grado en Ingeniería Informática en la Universidad de Granada.<br>Con formación en desarrollo de aplicaciones web y backend, así como en inteligencia artificial y machine learning. <br>Tengo experiencia práctica en el desarrollo de proyectos con tecnologías como Python (scikit-learn, PyTorch), Java (Springboot, Hibernate), PHP, SQL y C++. Busco oportunidades para aplicar y ampliar mis conocimientos en entornos profesionales.
 
 
 ## 🌐 Socials:
